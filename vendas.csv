@@ -1,0 +1,5 @@
+data,produto,preço,quantidade_vendida
+2024-01-01,Produto A,10.00,5
+2024-01-01,Produto B,15.00,3
+2024-01-02,Produto A,10.00,7
+2024-01-02,Produto C,20.00,2
